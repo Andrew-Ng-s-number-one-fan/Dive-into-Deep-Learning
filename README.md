@@ -2,8 +2,8 @@
 
 ### Chapter 1 - Introduction
 
-- [Data Manipulation with MXNet]()
-- [Data Manipulation with PyTorch]()
+- [Data Manipulation with MXNet.ipynb]()
+- [Data Manipulation with PyTorch.ipynb]()
 
 ### Chapter 2 - Preliminaries
 
