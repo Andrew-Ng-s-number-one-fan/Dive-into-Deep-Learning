@@ -8,5 +8,18 @@
 - [Data Manipulation with PyTorch.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Dive-into-Deep-Learning/blob/master/PyTorch/C1-1-Data%20Manipulation-with-PyTorch.ipynb)
 - [Data Processing.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Dive-into-Deep-Learning/blob/master/PyTorch/C2-2-Data-Processing.ipynb)
 - [Linear Algebra with Pytorch.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Dive-into-Deep-Learning/blob/master/PyTorch/C2-3-Linear-Algebra-with-Pytorch.ipynb)
+- [Calculus.ipynb]()
+- [Automatic Differentiation.ipynb]()
+- [Probability]()
 
 ### Chapter 3 - Linear Neural Networks
+
+### Chapter 4 - Multilayer Perceptrons
+
+### Chapter 5 - Deep Learning Computation
+
+### Chapter 6 - Convolutional Neural Networks
+
+### Chapter 7 - Modern Convolutional Neural Networks
+
+### Chapter 8 - Recurrent Neural Networks
