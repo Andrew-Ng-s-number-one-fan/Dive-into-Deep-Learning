@@ -10,7 +10,7 @@
 - [Linear Algebra with Pytorch.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Dive-into-Deep-Learning/blob/master/PyTorch/C2-3-Linear-Algebra-with-Pytorch.ipynb)
 - [Calculus with PyTorch.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Dive-into-Deep-Learning/blob/master/PyTorch/C2-4-Calculus-with-PyTorch.ipynb)
 - [Automatic Differentiation with PyTorch.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Dive-into-Deep-Learning/blob/master/PyTorch/C2-5-Automatic-Differentiation-with-PyTorch.ipynb)
-- [Probability with PyTorch.ipynb]()
+- [Probability with PyTorch.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Dive-into-Deep-Learning/blob/master/PyTorch/C2-6-Probability-with-PyTorch.ipynb)
 
 ### Chapter 3 - Linear Neural Networks
 
