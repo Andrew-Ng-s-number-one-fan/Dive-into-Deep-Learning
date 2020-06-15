@@ -1,4 +1,5 @@
 # [Dive into Deep Learning](https://d2l.ai/)
+<i> A book by Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola</i>
 
 ### Chapter 1 - Introduction
 
